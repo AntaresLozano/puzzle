@@ -88,3 +88,16 @@ body {
     align-items: center;
     flex-wrap: wrap;
 }
+#restart{
+    width: 130px;
+    margin-top: 20px;
+    margin-left: 42vw;
+    background-color: #9bb179;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#restart:hover{
+    background-color: #bed798;
+ }
